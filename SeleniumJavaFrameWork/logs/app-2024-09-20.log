@@ -1,0 +1,18 @@
+[INFO ] 2024-09-20 19:06:07.795 [main] Log4jExample - login to log4jExample class
+[ERROR] 2024-09-20 19:06:07.798 [main] Log4jExample - if login is failed then it will display the error
+[WARN ] 2024-09-20 19:06:07.798 [main] Log4jExample - this is a wraning messsage
+[FATAL] 2024-09-20 19:06:07.798 [main] Log4jExample - this is a fatal message
+[INFO ] 2024-09-20 19:07:04.362 [main] Log4jExample - login to log4jExample class
+[ERROR] 2024-09-20 19:07:04.365 [main] Log4jExample - if login is failed then it will display the error
+[WARN ] 2024-09-20 19:07:04.365 [main] Log4jExample - this is a wraning messsage
+[FATAL] 2024-09-20 19:07:04.365 [main] Log4jExample - this is a fatal message
+[TRACE] 2024-09-20 19:08:30.872 [main] Log4jExample - this is a trace message
+[INFO ] 2024-09-20 19:08:30.876 [main] Log4jExample - login to log4jExample class
+[ERROR] 2024-09-20 19:08:30.876 [main] Log4jExample - if login is failed then it will display the error
+[WARN ] 2024-09-20 19:08:30.876 [main] Log4jExample - this is a wraning messsage
+[FATAL] 2024-09-20 19:08:30.877 [main] Log4jExample - this is a fatal message
+[TRACE] 2024-09-20 19:14:11.806 [main] Log4jExample - this is a trace message
+[INFO ] 2024-09-20 19:14:11.807 [main] Log4jExample - login to log4jExample class
+[ERROR] 2024-09-20 19:14:11.807 [main] Log4jExample - if login is failed then it will display the error
+[WARN ] 2024-09-20 19:14:11.807 [main] Log4jExample - this is a wraning messsage
+[FATAL] 2024-09-20 19:14:11.808 [main] Log4jExample - this is a fatal message

@@ -1,0 +1,4 @@
+[INFO ] 2024-09-21 11:47:36.439 [main] Log4jExample - login to log4jExample class
+[ERROR] 2024-09-21 11:47:36.450 [main] Log4jExample - if login is failed then it will display the error
+[WARN ] 2024-09-21 11:47:36.451 [main] Log4jExample - this is a wraning messsage
+[FATAL] 2024-09-21 11:47:36.451 [main] Log4jExample - this is a fatal message

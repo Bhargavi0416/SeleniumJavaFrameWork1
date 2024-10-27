@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite1">
+	<test name="Test1">
+		<!-- parameter name = "MyName" value = "Automation"></parameter -->
+		<groups>
+
+			<define name="sanity1">
+				<include name="sanity group"></include>  <!-- meta group -->
+				<!-- include name = "smoke group"></include -->
+			</define>
+			<run>
+				<include name="sanity1"></include>
+				<include name="windows.*"></include>
+				<include name="AllClassTests"></include>
+				<!--include name = "sanity group"></include -->
+				<!--include name = "regression group"></include> <include name = "smoke 
+					group"></include> <!exclude name = "sanity group"></exclude> <! exclude name 
+					= "regression group"></exclude -->
+				<!-- exclude name = "smoke group"></exclude -->
+			</run>
+		</groups>
+
+		<classes>
+			<class name="TestNgListeners.com.GroupingWithTestNG" />
+		</classes>
+	</test> <!-- Test1 -->
+</suite> <!-- Suite1 -->

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="TestNgListeners.com.GroupingWithTestNG"/>
+      <class name="IgnoreTest.com.TestIgnore"/>
+      <class name="TestNgListeners.com.TestNgDependencies"/>
+      <class name="TestNgListeners.com.ListenersDemo2"/>
+      <class name="IgnoreTest.com.NewTest1"/>
+      <class name="TestNgListeners.com.DefaultSuiteTest"/>
+      <class name="SeleniumExcelFiles.DataProviderUsingExcelandTestNg"/>
+      <class name="TestNgListeners.com.ReportDemo"/>
+      <class name="TestNgListeners.com.TestNGListenersEx"/>
+      <class name="TestNgListeners.com.RetryTestUsingTestNg"/>
+      <class name="IgnoreTest.com.infoTest"/>
+      <class name="TestNgListeners.com.MultiBrowserTestingwithTstNG"/>
+      <class name="IgnoreTest.com.IgnoreTestsInTestNG"/>
+      <class name="TestNgListeners.com.ListenersDemo"/>
+      <class name="SeleniumExcelFiles.ExcelDataProvider"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

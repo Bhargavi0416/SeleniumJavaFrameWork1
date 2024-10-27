@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [Failed suite [Suite1]]]"
+	guice-stage="DEVELOPMENT">
+	<test name="test1(failed)(failed)(failed)">
+		<classes>
+			<class name="TestNgListeners.com.RetryTestUsingTestNg">
+				<methods>
+					<include name="test2" />
+				</methods>
+			</class> <!-- TestNgListeners.com.RetryTestUsingTestNg -->
+		</classes>
+	</test> <!-- test1(failed)(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Failed suite [Suite1]]] -->
